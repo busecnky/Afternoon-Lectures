@@ -1,0 +1,15 @@
+
+
+//Bir Calisan sınıfı yazınız.
+//Sınıfın özellikleri (ad,soyad,departman,maaş,cinsiyet,doğumTarihi , yas)
+//Özelliklerin hepsi public 
+
+
+
+
+
+//Ürün sınıfı
+//urunAdi, urunBarkodnumarasi, urunFiyati, urunKategori
+//bilgileriGoster() --> dönüş tipi yok, parametre almasın
+//metot içerisinde ürünün bilgeleri sysout içerisinde yazdırılacak
+//main metodunda çağıralım
