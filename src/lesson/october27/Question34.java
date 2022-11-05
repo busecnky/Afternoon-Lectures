@@ -1,4 +1,4 @@
-package lessonoctober27;
+package lesson.october27;
 
 import java.util.Scanner;
 
