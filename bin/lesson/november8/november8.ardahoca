@@ -1,0 +1,13 @@
+
+-Araba sınıfı yazılacak --> marka, model, renk, motorTipi, motorHacmi, motorGucu
+-arabaYasi --> dönüş tipi int, static bir metot --> arabanın yaşını hesaplayan metot yazılacak
+	2022 - arabanın üretim yılı
+	
+-araba Bilgileri --> arabanın özelliklerini alt alta yazdıracak, arabanın yaşı da yazılacak
+
+-Mainde sınıftan arabalar üretilecel
+-Oluşturulan arabaların özellikleri bi array'de toplanacak ve sırasıyla yazılacak
+
+
+
+

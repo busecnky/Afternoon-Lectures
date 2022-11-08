@@ -1,0 +1,34 @@
+
+
+
+Javadaki erişim belirleyiciler nelerdir ve nasıl kullanılırlar?
+	-private, public, protected, default
+	
+	ptivate --> Yalnızca aynı class içerisindeki özelliklere ulaşılabilir.
+	public --> Aynı proje içerisindeki her yerden erişim
+	protected --> Aynı paket içerisindeki classlardan erişilebilir.
+	default --> Aynı paket içerisindeki classlardan erişilebilir.
+	
+	
+	--> ad herkes ulaşabilsin
+	--> tür yalnızca kendi familyası ulaşabilsin
+	--> familyasına herkes ulaşabilsin
+	--> ayakSayisi herkes ulaşabilsin
+	--> tüyRengini sadece hayvan ulaşabilsin
+	
+	bilgileriGoster --> hayvanlara ait bilgiler
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
